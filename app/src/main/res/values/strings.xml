@@ -1,10 +1,19 @@
 <resources>
     <string name="app_name">My App</string>
     <string name="action_settings">Settings</string>
+    <string name="action_settings_ii">Settings II</string>
+
+    <string name="action_login">Ir a Login</string>
 
 
     <string name="bienvenido">Welcome to the Android Course </string>
+    <string name="test">test</string>
+    <string name="login">Login</string>
 
+
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar">Iniciar Sesión</string>
 
 
 </resources>
