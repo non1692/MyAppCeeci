@@ -14,6 +14,22 @@
     <string name="email">Email</string>
     <string name="contrase_a">Contraseña</string>
     <string name="iniciar">Iniciar Sesión</string>
+    <string name="titulo_alert">Titulo Alerta</string>
+    <string name="mensaje_alert">Esto es un texto de una alerta</string>
+    <string name="titulo_alert_person">Titulo Personalizado</string>
+    <string name="mensaje_alert_person">Mensaje Personalizado</string>
+    <string name="titulo_alert_multi">Esto es una notificación</string>
+
+    <string name="titulo_notify">Notificación</string>
+    <string name="txt_demo">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+
+
+    <string name="titulo_1">Aprovecha Solo hoy</string>
+    <string name="titulo_2">Martes al 2X1</string>
+    <string name="titulo_3">En cada compra 20% de Descuento</string>
+    <string name="titulo_4">Gran Promo</string>
+    <string name="titulo_5">Oferta ultimo día</string>
+    <string name="titulo_6">Remate!!</string>
 
 
 </resources>
