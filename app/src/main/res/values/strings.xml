@@ -30,6 +30,7 @@
     <string name="titulo_4">Gran Promo</string>
     <string name="titulo_5">Oferta ultimo día</string>
     <string name="titulo_6">Remate!!</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
 
 
 </resources>
